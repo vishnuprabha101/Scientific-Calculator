@@ -23,6 +23,15 @@ namespace Calculator.Controllers
 
          [HttpGet("multiply")]
         public IActionResult Multiply(int a, int b) => Ok(_calculatorService.Multiply(a, b));
+
+        [HttpGet("divide")]
+        public IActionResult Divide(int a, int b)
+        {
+            if (b == 0)
+                return BadRequest("Cannot divide by zero.");
+            return Ok(_calculatorService.Divide(a, b));
+        }
+
         
         
         // Scientific Operations
@@ -53,6 +62,13 @@ namespace Calculator.Controllers
             var result = _calculatorService.Percentage(total, percentage);
             return Ok(result);
         }
-        
+
+         [HttpGet("exponent")]
+        public IActionResult Exponent(double x)
+        {
+            var result = _calculatorService.Exponent(x);
+            return Ok(result);
+        }
+
     }
 }
