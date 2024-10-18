@@ -70,5 +70,15 @@ namespace Calculator.Controllers
             return Ok(result);
         }
 
+         [HttpGet("modulus")]
+        public IActionResult Modulus(int a, int b)
+        {
+            if (b == 0)
+                return BadRequest("Cannot perform modulus with a divisor of zero.");
+            var result = _calculatorService.Modulus(a, b);
+            return Ok(result);
+        }
+
+
     }
 }

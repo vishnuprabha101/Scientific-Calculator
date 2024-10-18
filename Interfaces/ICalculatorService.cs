@@ -6,10 +6,14 @@ namespace Calculator.Interfaces
         T Subtract(T a, T b);
          T Multiply(T a, T b);
          T Divide(T a, T b);
+         
         double SquareRoot(double a);
         double Power(double baseValue, double exponent);
         double Percentage(double total, double percentage);
         double Exponent(double x);
+        
+        // New Modulus Method
+        T Modulus(T a, T b);
         
     }
 }

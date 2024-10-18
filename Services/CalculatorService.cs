@@ -27,6 +27,12 @@ namespace Calculator.Services
         public double Percentage(double total, double percentage) => (total * percentage) / 100;
 
         public double Exponent(double x) => Math.Exp(x);
+         public int Modulus(int a, int b)
+        {
+            if (b == 0) throw new DivideByZeroException();
+            return a % b;
+        }
+
         
 
     }   
