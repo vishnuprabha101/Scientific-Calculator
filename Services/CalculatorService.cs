@@ -44,6 +44,9 @@ namespace Calculator.Services
             return result;
          }
 
+         public double Sine(double angleInRadians) => Math.Sin(angleInRadians);
+         
+
         
 
     }   

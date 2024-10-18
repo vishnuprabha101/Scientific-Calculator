@@ -89,6 +89,16 @@ namespace Calculator.Controllers
             return _calculatorService.Factorial(n);
         }
 
+        [HttpGet("sine")]
+        public IActionResult Sine(double angleInRadians)
+           
+        {
+            var result = _calculatorService.Sine(angleInRadians);
+            return Ok(result);
+        }
+
+
+
 
     }
 }

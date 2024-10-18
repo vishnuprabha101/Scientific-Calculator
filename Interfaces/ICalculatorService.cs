@@ -16,6 +16,8 @@ namespace Calculator.Interfaces
         T Modulus(T a, T b);
 
         double Factorial(int n);
+
+        double Sine(double angleInRadians);
         
     }
 }
