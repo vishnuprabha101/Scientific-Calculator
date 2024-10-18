@@ -21,7 +21,8 @@ namespace Calculator.Controllers
         [HttpGet("subtract")]
         public IActionResult Subtract(int a, int b) => Ok(_calculatorService.Subtract(a, b));   
 
-        
+         [HttpGet("multiply")]
+        public IActionResult Multiply(int a, int b) => Ok(_calculatorService.Multiply(a, b));
         
         
         // Scientific Operations
@@ -45,5 +46,13 @@ namespace Calculator.Controllers
             var result = _calculatorService.Power(baseValue, exponent);
             return Ok(result);
         }
+
+        [HttpGet("percentage")]
+        public IActionResult Percentage(double total, double percentage)
+        {
+            var result = _calculatorService.Percentage(total, percentage);
+            return Ok(result);
+        }
+        
     }
 }
