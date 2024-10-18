@@ -6,6 +6,7 @@ namespace Calculator.Services
     {
         public int Add(int a, int b) => a + b;
 
+        public int Subtract(int a, int b) => a - b;
        
 
         public double SquareRoot(double a)
@@ -13,6 +14,8 @@ namespace Calculator.Services
             if (a < 0) throw new ArgumentOutOfRangeException("Cannot calculate square root of a negative number.");
             return Math.Sqrt(a);
         }
+
+        public double Power(double baseValue, double exponent) => Math.Pow(baseValue, exponent);
 
     }   
     

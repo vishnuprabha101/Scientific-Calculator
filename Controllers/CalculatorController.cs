@@ -18,7 +18,8 @@ namespace Calculator.Controllers
         [HttpGet("add")]
         public IActionResult Add(int a, int b) => Ok(_calculatorService.Add(a, b));
 
-       
+        [HttpGet("subtract")]
+        public IActionResult Subtract(int a, int b) => Ok(_calculatorService.Subtract(a, b));   
 
         
         
@@ -38,6 +39,11 @@ namespace Calculator.Controllers
             return Ok(result);
         }
 
-       
+       [HttpGet("power")]
+        public IActionResult Power(double baseValue, double exponent)
+        {
+            var result = _calculatorService.Power(baseValue, exponent);
+            return Ok(result);
+        }
     }
 }
