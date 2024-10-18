@@ -78,6 +78,16 @@ namespace Calculator.Controllers
             var result = _calculatorService.Modulus(a, b);
             return Ok(result);
         }
+        // Add the factorial method
+        [HttpGet("factorial")]
+        public ActionResult<double> Factorial(int n)
+        {
+            if (n < 0)
+            {
+                 return BadRequest("Factorial of a negative number is not defined.");
+             }
+            return _calculatorService.Factorial(n);
+        }
 
 
     }

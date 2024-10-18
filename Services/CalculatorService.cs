@@ -33,6 +33,17 @@ namespace Calculator.Services
             return a % b;
         }
 
+         public double Factorial(int n)
+        {
+            if (n == 0) return 1;
+            double result = 1;
+                for (int i = 1; i <= n; i++)
+                 {
+                     result *= i;
+                 }
+            return result;
+         }
+
         
 
     }   

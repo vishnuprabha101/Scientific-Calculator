@@ -14,6 +14,8 @@ namespace Calculator.Interfaces
         
         // New Modulus Method
         T Modulus(T a, T b);
+
+        double Factorial(int n);
         
     }
 }
