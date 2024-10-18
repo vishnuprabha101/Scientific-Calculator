@@ -3,7 +3,7 @@ using Calculator.Interfaces;
 namespace Calculator.Services
 {
     public class CalculatorService : ICalculatorService<int>
-    
+    {
         public int Add(int a, int b) => a + b;
 
        
@@ -14,6 +14,6 @@ namespace Calculator.Services
             return Math.Sqrt(a);
         }
 
-       
-    }
+    }   
+    
 }

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "JjY1iF7Iu+tdLgEeD/5t5X9CCmrJkXMO31bYQdUbP68=",
+  "Hash": "OpKtL0oIpi3cHnf9oWBbPGY9q1ZnneC//KlWA8KXq5Y=",
   "Source": "Calculator",
   "BasePath": "_content/Calculator",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

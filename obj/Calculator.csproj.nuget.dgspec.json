@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\himan\\Desktop\\Desktop\\Final project partion\\Scientific_Calculator\\Calculator.csproj": {}
+    "/workspaces/Scientific-Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\himan\\Desktop\\Desktop\\Final project partion\\Scientific_Calculator\\Calculator.csproj": {
+    "/workspaces/Scientific-Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\himan\\Desktop\\Desktop\\Final project partion\\Scientific_Calculator\\Calculator.csproj",
+        "projectUniqueName": "/workspaces/Scientific-Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\himan\\Desktop\\Desktop\\Final project partion\\Scientific_Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\himan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\himan\\Desktop\\Desktop\\Final project partion\\Scientific_Calculator\\obj\\",
+        "projectPath": "/workspaces/Scientific-Calculator/Calculator.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/Scientific-Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\himan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

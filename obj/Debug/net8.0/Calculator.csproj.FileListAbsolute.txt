@@ -73,69 +73,106 @@
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.pdb
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/ref/Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\appsettings.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Calculator.exe
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Calculator.deps.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Calculator.pdb
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.csproj.AssemblyReference.cache
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.build.Calculator.props
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.props
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Calculator.props
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\scopedcss\bundle\Calculator.styles.css
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.csproj.Up2Date
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\refint\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.pdb
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
-C:\Users\himan\Desktop\Desktop\Final project API\Calculator-main\Scientific_Calculator\obj\Debug\net8.0\ref\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\appsettings.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Calculator.exe
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Calculator.deps.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Calculator.pdb
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.csproj.AssemblyReference.cache
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.build.Calculator.props
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.props
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Calculator.props
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\scopedcss\bundle\Calculator.styles.css
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.csproj.Up2Date
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\refint\Calculator.dll
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.pdb
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
-C:\Users\himan\Desktop\Desktop\Final project partion\Scientific_Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/appsettings.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Calculator.exe
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Calculator.deps.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Calculator.pdb
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.csproj.AssemblyReference.cache
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.build.Calculator.props
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Calculator.props
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Calculator.props
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/scopedcss/bundle/Calculator.styles.css
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.csproj.Up2Date
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/refint/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.pdb
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+C:/Users/himan/Desktop/Desktop/Final project API/Calculator-main/Scientific_Calculator/obj/Debug/net8.0/ref/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/appsettings.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Calculator.exe
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Calculator.deps.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Calculator.pdb
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.csproj.AssemblyReference.cache
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.build.Calculator.props
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Calculator.props
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Calculator.props
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/scopedcss/bundle/Calculator.styles.css
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.csproj.Up2Date
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/refint/Calculator.dll
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.pdb
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+C:/Users/himan/Desktop/Desktop/Final project partion/Scientific_Calculator/obj/Debug/net8.0/ref/Calculator.dll
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.csproj.AssemblyReference.cache
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.dll
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.pdb
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/appsettings.json
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Calculator.staticwebassets.endpoints.json
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Calculator
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Calculator.deps.json
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Calculator.dll
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Calculator.pdb
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/Scientific-Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/scopedcss/bundle/Calculator.styles.css
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets/msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets/msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets/msbuild.build.Calculator.props
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Calculator.props
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Calculator.props
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.csproj.Up2Date
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/workspaces/Scientific-Calculator/obj/Debug/net8.0/ref/Calculator.dll
